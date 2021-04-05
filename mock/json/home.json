@@ -1,0 +1,78 @@
+{
+  "/api/table1": {
+    "code": 200,
+    "msg": "请求成功",
+    "data": [
+      {
+        "difference": 14,
+        "draw": 3,
+        "games": 11,
+        "goal": 23,
+        "groupName": "未分组",
+        "logo": "https://relottery.ws.126.net/nano_team/soccer/5_10183_nano.png",
+        "loss": 1,
+        "lossGoal": 9,
+        "points": 24,
+        "sort": 1,
+        "team": "热刺",
+        "teamId": 10183,
+        "win": 7,
+        "linkNews": true,
+        "linkReport": true,
+        "roomId": 12
+      },
+      {
+        "difference": 9,
+        "draw": 3,
+        "games": 11,
+        "goal": 26,
+        "groupName": "未分组",
+        "logo": "https://relottery.ws.126.net/nano_team/soccer/5_10249_nano.png",
+        "loss": 1,
+        "lossGoal": 17,
+        "points": 23,
+        "sort": 2,
+        "team": "利物浦",
+        "teamId": 10249,
+        "win": 7,
+        "linkNews": true,
+        "linkReport": false,
+        "roomId": 12
+      },
+      {
+        "difference": 14,
+        "draw": 4,
+        "games": 11,
+        "goal": 25,
+        "groupName": "未分组",
+        "logo": "https://relottery.ws.126.net/nano_team/soccer/5_10180_nano.png",
+        "loss": 1,
+        "lossGoal": 11,
+        "points": 22,
+        "sort": 3,
+        "team": "切尔西",
+        "teamId": 10180,
+        "win": 6
+      },
+      {
+        "difference": 6,
+        "draw": 0,
+        "games": 11,
+        "goal": 21,
+        "groupName": "未分组",
+        "logo": "https://relottery.ws.126.net/nano_team/soccer/5_10247_nano.png",
+        "loss": 4,
+        "lossGoal": 15,
+        "points": 21,
+        "sort": 4,
+        "team": "莱斯特城",
+        "teamId": 10247,
+        "win": 7
+      }
+    ]
+  },
+  "/api/login": {
+    "success": "true",
+    "message": "登录成功"
+  }
+}
